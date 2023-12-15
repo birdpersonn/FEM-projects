@@ -28,9 +28,8 @@ body {
 }
 
 .qr-card {
-    padding: 7px;
-    padding-bottom: 35px;
-    margin-bottom: 35px;
+    padding: 17px;
+    margin: 10px;
     background-color: var(--white);
     display: flex;
     flex-direction: column;
@@ -40,7 +39,6 @@ body {
 
 .qr-card img {
     max-width: 100%;
-    margin: 10px;
     border-radius: 15px;
 }
 
@@ -49,13 +47,9 @@ body {
 }
 
 .qr-info h1 {
-    font-size: 24px;
+    font-size: 22px;
     color: var(--dark-blue);
-    margin: 15px 0px;
-}
-
-.qr-info p {
-    font-size: 16px;
+    margin-bottom: 15px;
 }
 
 .attribution {
